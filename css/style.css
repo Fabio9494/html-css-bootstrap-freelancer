@@ -15,10 +15,6 @@
     border: 2px black solid;
 }
 
-.bordpo{
-    border: solid 5px red;
-}
-
 .content-footer{
     height: 200px;
     border: 2px black solid;
@@ -67,4 +63,3 @@
 .bg-2C3E50{
     background-color:#2C3E50;
 }
-
