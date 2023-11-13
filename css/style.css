@@ -20,6 +20,25 @@
     border: 2px black solid;
 }
 
+.width-10{
+    width: 10%;
+}
+
+.star:before {
+    content: "";
+    width: 60px;
+    height: 2px;
+    background: #ffffff;
+   
+  }
+  
+  .star:after {
+    content: "";
+    width: 60px;
+    height: 2px;
+    background: #ffffff;
+  } 
+
 .bg-2C3E50{
     background-color: #2C3E50;
 }
