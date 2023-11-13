@@ -7,13 +7,8 @@
 .content-header{
     height: 50px;
     background-color: #2C3E50;
-    border: 2px black solid;
 }
 
-.content{
-    height: 300px;
-    border: 2px black solid;
-}
 
 .content-footer{
     height: 200px;
@@ -26,18 +21,32 @@
 
 .star:before {
     content: "";
-    width: 60px;
+    width: 100px;
     height: 2px;
     background: #ffffff;
-   
   }
   
-  .star:after {
+.star:after {
     content: "";
-    width: 60px;
+    width: 100px;
     height: 2px;
     background: #ffffff;
   } 
+
+ .star-b:before {
+    content: "";
+    width: 100px;
+    height: 2px;
+    background: black;
+  }
+  
+.star-b:after {
+    content: "";
+    width: 100px;
+    height: 2px;
+    background: black;
+  } 
+ 
 
 .bg-2C3E50{
     background-color: #2C3E50;
